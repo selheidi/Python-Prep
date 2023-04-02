@@ -2,8 +2,7 @@
 
 1) A partir de una lista vacía, utilizar un ciclo while para cargar allí números negativos del -15 al -1
 
-2) ¿Con un ciclo while sería posible recorrer la lista para imprimir sólo los números pares?
-
+x
 3) Resolver el punto anterior sin utilizar un ciclo while
 
 4) Utilizar el iterable para recorrer sólo los primeros 3 elementos
