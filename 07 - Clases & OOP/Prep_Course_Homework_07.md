@@ -12,7 +12,7 @@ Doblar<br>
 
 3) Instanciar 3 objetos de la clase vehículo y ejecutar sus métodos, probar luego el resultado
 
-4) Agregar a la clase Vehiculo, un método que muestre su estado, es decir, a que velocidad se encuentra y su dirección. Y otro método que muestre color, tipo y cilindrada
+4) Agregar a la clase Vehiculo,  un método que muestre su estado, es decir, a que velocidad se encuentra y su dirección. Y otro método que muestre color, tipo y cilindrada
 
 5) Crear una clase que permita utilizar las funciones creadas en la práctica del módulo 6<br>
 Verificar Primo<br>
